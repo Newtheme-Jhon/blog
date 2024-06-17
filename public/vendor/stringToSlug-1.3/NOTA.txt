@@ -1,0 +1,6 @@
+githubproyect:
+
+https://github.com/leocaseiro/jQuery-Plugin-stringToSlug
+
+web developer:
+https://leocaseiro.com.br/jquery-plugin-string-to-slug/
